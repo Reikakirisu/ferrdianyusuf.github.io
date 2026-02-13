@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://jumpshare.com/share/gqYlKwX3moXdyUTVZVf0?b=TOCj91hKT4Q2DU8vOnNn", // Music streaming URL
+        musicUrl: "https://s17.aconvert.com/convert/p3r68-cdx67/3q30k-kp2ev.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
